@@ -23,3 +23,9 @@ optional arguments:
   --code CODE      code
   --id ID          id
   ```
+
+## Example
+
+```
+./convert.py ~/test.mod --name "Test Module"
+```
